@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=70"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "world-aluminum-investment-optimization"
+version = "0.1.0"
+description = "Pyomo implementation of a long-run global aluminum investment, production, and trade optimization model."
+requires-python = ">=3.11"
+dependencies = [
+    "pyomo>=6.8",
+    "highspy>=1.7",
+    "pandas>=2.2",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

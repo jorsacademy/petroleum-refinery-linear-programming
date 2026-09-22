@@ -1,0 +1,4 @@
+pyomo>=6.8
+highspy>=1.7
+pandas>=2.2
+pytest>=8.0
