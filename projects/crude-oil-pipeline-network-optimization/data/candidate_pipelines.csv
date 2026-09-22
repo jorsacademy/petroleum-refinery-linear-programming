@@ -1,0 +1,14 @@
+from_node,to_node,distance_km,capacity_kbbl_day,fixed_cost_musd_year,variable_cost_kusd_per_kbbl,environmental_penalty_musd_year,regulatory_cost_musd_year,prohibited
+Field_A,North_Junction,62,110,8.6,0.42,0.8,0.2,0
+Field_A,Central_Junction,88,100,11.9,0.51,1.4,0.4,0
+Field_B,North_Junction,75,95,9.8,0.46,1.1,0.3,0
+Field_B,Central_Junction,54,100,7.6,0.39,0.7,0.2,0
+Field_B,South_Junction,91,85,12.4,0.55,1.5,0.5,0
+Field_C,Central_Junction,70,80,9.5,0.44,0.9,0.3,0
+Field_C,South_Junction,48,80,6.9,0.37,0.6,0.2,0
+North_Junction,Central_Junction,58,150,7.8,0.34,0.5,0.2,0
+North_Junction,Coastal_Refinery,142,120,18.6,0.61,2.2,0.8,0
+Central_Junction,Coastal_Refinery,104,220,14.1,0.48,1.2,0.5,0
+South_Junction,Central_Junction,64,140,8.4,0.36,0.6,0.2,0
+South_Junction,Coastal_Refinery,119,120,15.9,0.53,1.7,0.6,0
+Field_C,North_Junction,133,60,17.2,0.62,3.8,1.4,1

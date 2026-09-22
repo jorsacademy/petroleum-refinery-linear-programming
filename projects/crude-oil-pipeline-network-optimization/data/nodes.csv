@@ -1,0 +1,8 @@
+node_id,node_type,supply_kbbl_day,demand_kbbl_day,pump_candidate,pump_capacity_kbbl_day,pump_fixed_cost_musd_year
+Field_A,source,95,0,0,0,0
+Field_B,source,80,0,0,0,0
+Field_C,source,65,0,0,0,0
+North_Junction,junction,0,0,1,170,3.8
+Central_Junction,junction,0,0,1,220,4.5
+South_Junction,junction,0,0,1,160,3.4
+Coastal_Refinery,refinery,0,240,0,0,0
