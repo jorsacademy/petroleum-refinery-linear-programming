@@ -1,4 +1,21 @@
-# Petroleum Refinery Linear Programming
+# Process Industries Optimization
+
+<!-- portfolio-umbrella:start -->
+## Portfolio role
+
+This repository is the primary umbrella repository for this Jors Academy research area. Related projects have been consolidated under `projects/` so the methods, implementations, experiments, and case studies can be maintained and explored from one place.
+
+### Included projects
+
+- [`chemical-batch-process-design-minlp`](projects/chemical-batch-process-design-minlp/)
+- [`crude-oil-pipeline-network-optimization`](projects/crude-oil-pipeline-network-optimization/)
+- [`gas-processing-plant-milp-optimization-python`](projects/gas-processing-plant-milp-optimization-python/)
+- [`oil-refinery-optimization-pulp`](projects/oil-refinery-optimization-pulp/)
+- [`transco-germanium-optimization-refining`](projects/transco-germanium-optimization-refining/)
+- [`world-aluminum-investment-optimization`](projects/world-aluminum-investment-optimization/)
+
+Each consolidated project keeps its own files and a `SOURCE_REPOSITORY.md` provenance record. The snapshot preserves the source repository's default-branch files at consolidation time; repository-level history and metadata remain separate from the snapshot.
+<!-- portfolio-umbrella:end -->
 
 A compact linear programming model for a simplified petroleum refinery network using Python and PuLP.
 
